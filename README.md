@@ -28,7 +28,7 @@ The world is evolving as well as my research interests. Thanks for looking, and 
 ### Other
 | Name | Description | 
 | ---- |  ----------- |
-[SCEC benchmark](https://github.com/elifo/scec_benchmark_dynamic_rupture) | Dataframes and notebooks for our data in SCEC DRV benchmark|
+[SCEC benchmark](https://github.com/elifo/scec_benchmark_dynamic_rupture) | Dataframes and notebooks for our models in SCEC DRV benchmark|
 [Palu slow supershear](https://github.com/elifo/damaged_fault) | Dynamic rupture modeling for damaged medium of 2018 Palu, Indonesia earthquake & Python scripts for post-processing |
 [RIKsrf](https://github.com/elifo/RIKsrf/tree/martinique) | Kinematic source modeling for ground motion prediction in Martinique |
 [Zagreb](https://github.com/elifo/zagreb_2020) | Notebook trials for MUSIC backprojection, seismic data processing with obspy, and data selection by clustering |
