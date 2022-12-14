@@ -36,8 +36,4 @@ The world is evolving as well as my research interests. Thanks for looking, and 
 [How-to-obspy](https://github.com/elifo/obspy_tutorials) | Beginner's Jupyter notebooks on downloading seismic data and obspy use |
 [How-to-machine-learning](https://github.com/elifo/Workshop_Machine_Learning) | My notebooks from Caltech workshop on Machine Learning |
 
-
-
-
-
-
+For more details on examples/tutorials, click [here](https://github.com/elifo/elifo.github.io/blob/main/tutorials/all_topics.md)
