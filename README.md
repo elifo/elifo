@@ -6,7 +6,7 @@ Here I share the numerical tools that I developed and/or contributed to, mostly 
 
 My scripts for data analysis are mostly python libraries/class and Jupyter notebooks. The softwares for larger-scale problems are mostly hybrid with the core parts written once upon a time in Fortran, and the relatively new parts that adopt the spirit of its time and conditions, such as CUDA for GPU use in high performance computing.
 
-The Earth is evolving as well as my research activities and interests. Thanks for looking, and stay tuned for more open science ++
+The world is evolving as well as my research interests. Thanks for looking, and stay tuned for more open science ++
 
 ## Quick guide to browse repositories
 
