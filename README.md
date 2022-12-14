@@ -17,7 +17,7 @@ The Earth is evolving as well as my research activities and interests. Thanks fo
 | [IWANelem](https://github.com/elifo/IWANelem) | Modeling experimental soil behaviour under dynamic loading |
 
 
-### My contributions (dynamically updated)
+### My contributions to open source projects (dynamically updated)
 | Name | Description | 
 | ---- |  ----------- |
 [specfem3d](https://github.com/elifo/specfem3d/tree/ridgecrest) | Dynamic rupture simulations for initial stress heterogeneity for applications to SoCal & Ridgecrest|
@@ -29,10 +29,10 @@ The Earth is evolving as well as my research activities and interests. Thanks fo
 | Name | Description | 
 | ---- |  ----------- |
 [SCEC benchmark](https://github.com/elifo/scec_benchmark_dynamic_rupture) | Dataframes and notebooks for our data in SCEC DRV benchmark|
-[Palu slow supershear](https://github.com/elifo/damaged_fault) | Dynamic rupture model for damaged medium of 2018 Palu, Indonesia earthquake and python class for post-processing |
-[RIKsrf](https://github.com/elifo/RIKsrf/tree/martinique) | Kinematic source models for ground motion prediction in Martinique |
+[Palu slow supershear](https://github.com/elifo/damaged_fault) | Dynamic rupture modeling for damaged medium of 2018 Palu, Indonesia earthquake & Python scripts for post-processing |
+[RIKsrf](https://github.com/elifo/RIKsrf/tree/martinique) | Kinematic source modeling for ground motion prediction in Martinique |
 [Zagreb](https://github.com/elifo/zagreb_2020) | Notebook trials for MUSIC backprojection, seismic data processing with obspy, and data selection by clustering |
-[Convertisseur](https://github.com/elifo/Convertisseur) | Python scripts to convert RIKsrf outputs as input for 3D wave propagation codes|
+[Convertisseur](https://github.com/elifo/Convertisseur) | Python scripts to convert RIKsrf outputs to source input for 3D wave propagation codes|
 [How-to-obspy](https://github.com/elifo/obspy_tutorials) | Beginner's Jupyter notebooks on downloading seismic data and obspy use |
 [How-to-machine-learning](https://github.com/elifo/Workshop_Machine_Learning) | My notebooks from Caltech workshop on Machine Learning |
 
