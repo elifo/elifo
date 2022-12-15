@@ -4,7 +4,7 @@ My name is [Elif Oral](https://elifo.github.io). I'm a scientist working on geoh
 
 Here I share the numerical tools that I developed and/or contributed to, mostly relevant to earthquake source mechanics, wave propagation, geotechnical earthquake engineering, and observational seismology. 
 
-My scripts for data analysis are mostly python libraries/class and Jupyter notebooks. The softwares for larger-scale problems are mostly hybrid with the core parts written once upon a time in Fortran, and the relatively new parts that adopt the spirit of its time and conditions, such as CUDA for GPU use in high performance computing.
+My scripts for data analysis are mostly python libraries/class and Jupyter notebooks; my softwares for large-scale computational mechanics are generally hybrid with the core parts written once upon a time in Fortran, and the relatively new parts that adopt the spirit of its time and conditions, such as CUDA for GPU use in high performance computing.
 
 The world is evolving so are my research interests. Thanks for looking, and stay tuned for more open science ++
 
