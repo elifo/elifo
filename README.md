@@ -31,7 +31,7 @@ The world is evolving so are my research interests. Thanks for looking, and stay
 | ---- |  ----------- |
 [SCEC benchmark](https://github.com/elifo/scec_benchmark_dynamic_rupture) | Dataframes and notebooks for our models in SCEC DRV benchmark|
 [Palu slow supershear](https://github.com/elifo/damaged_fault) | Dynamic rupture modeling for damaged medium of 2018 Palu, Indonesia earthquake & Python scripts for post-processing |
-[Zagreb](https://github.com/elifo/zagreb_2020) | Notebook trials for MUSIC backprojection, seismic data processing with obspy, and data selection by clustering |
+[Zagreb](https://github.com/elifo/zagreb_2020) | Notebook trials for MUSIC backprojection, seismic data processing, and data clustering for 2020 Zagreb, Crotia earthquake|
 [Convertisseur](https://github.com/elifo/Convertisseur) | Python scripts to convert RIKsrf outputs to source input for 3D wave propagation codes|
 [How-to-obspy](https://github.com/elifo/obspy_tutorials) | Beginner's Jupyter notebooks on downloading seismic data and obspy use |
 [How-to-machine-learning](https://github.com/elifo/Workshop_Machine_Learning) | My notebooks from Caltech workshop on Machine Learning |
