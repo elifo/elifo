@@ -1,4 +1,4 @@
-## Hi there 👋
+## Aloha everyone 👋
 
 My name is [Elif Oral](https://elifo.github.io). I'm a scientist working on geohazard problems as a postdoctoral researcher at [Caltech](https://www.caltech.edu).
 
