@@ -26,7 +26,7 @@ The world is evolving so are my research interests. Thanks for looking, and stay
 [sem2dpack](https://github.com/elifo/sem2dpack/tree/master/JUPYTER) | Python class and Jupyter notebooks for mesh preparation (Cubit/Trelis) and post-processing|
 [RIKsrf](https://github.com/elifo/RIKsrf/tree/martinique) | Kinematic source modeling for ground motion prediction in Martinique |
 
-### Other
+### More
 | Name | Description | 
 | ---- |  ----------- |
 [SCEC benchmark](https://github.com/elifo/scec_benchmark_dynamic_rupture) | Dataframes and notebooks for our models in SCEC DRV benchmark|
