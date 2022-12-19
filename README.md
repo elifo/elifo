@@ -20,7 +20,7 @@ The world is evolving so are my research interests. Thanks for looking, and stay
 ### My contributions to open source projects (dynamically updated)
 | Name | Description | 
 | ---- |  ----------- |
-[specfem3d](https://github.com/elifo/specfem3d/tree/ridgecrest) | Dynamic rupture simulations for initial stress heterogeneity for applications to SoCal & Ridgecrest|
+[specfem3d](https://github.com/elifo/specfem3d/tree/ridgecrest) | Initial stress heterogeneity for dynamic rupture modeling and applications to SoCal & Ridgecrest|
 [specfem3d](https://github.com/elifo/specfem3d/tree/losalamos) | Seismic site response of complex sedimentary basins|
 [sem2dpack](https://github.com/elifo/sem2dpack/tree/iwan) | Modeling site effects in linear and nonlinear media|
 [sem2dpack](https://github.com/elifo/sem2dpack/tree/master/JUPYTER) | Python class and Jupyter notebooks for mesh preparation (Cubit/Trelis) and post-processing|
