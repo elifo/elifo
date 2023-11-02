@@ -2,7 +2,7 @@
 
 My name is [Elif Oral](https://elifo.github.io). I'm a scientist working on geohazard problems as a postdoctoral researcher at [Caltech](https://www.caltech.edu).
 
-Here I share the numerical tools that I developed and/or contributed to, mostly relevant to earthquake source mechanics, wave propagation, geotechnical earthquake engineering, and observational seismology. 
+Here I share the numerical tools that I developed and/or contributed to, mostly relevant to earthquake source mechanics, engineering mechanics, wave propagation, earthquake engineering, and observational seismology. 
 
 My scripts for data analysis are mostly python libraries/class and Jupyter notebooks; my softwares for large-scale computational mechanics are generally hybrid with the core parts written once upon a time in Fortran, and the relatively new parts that adopt the spirit of its time and conditions, such as CUDA for GPU use in high performance computing.
 
