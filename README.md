@@ -1,6 +1,6 @@
 ## Aloha everyone 👋
 
-My name is [Elif Oral](https://elifo.github.io). I'm a scientist working on geohazard problems as a postdoctoral researcher at [Caltech](https://www.caltech.edu).
+My name is [Elif Oral](https://elifo.github.io). I'm a scientist working on geohazard problems as a postdoctoral researcher at [Caltech](https://www.caltech.edu). I am currently transitioning to nuclear structural engineering at Egis Group in France.
 
 Here I share the numerical tools that I developed and/or contributed to, mostly relevant to earthquake source mechanics, engineering mechanics, wave propagation, earthquake engineering, and observational seismology. 
 
